@@ -5,7 +5,7 @@ Welcome to **CYBORG // CORE**, a futuristic, highly responsive, and neon-themed 
 ---
 
 ## 🚀 Live Demo
-🔗 **[Click Here to View the Live Project](PASTE_YOUR_NETLIFY_OR_VERCEL_LINK_HERE)**
+🔗 **[Click Here to View the Live Project](https://cyborg-page.vercel.app)**
 
 ---
 
